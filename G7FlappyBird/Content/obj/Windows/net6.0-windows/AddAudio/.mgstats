@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Kin/Desktop/G7FlappyBird/G7FlappyBird/Content/fallSound.wav","C:/Users/Kin/Desktop/G7FlappyBird/G7FlappyBird/Content/bin/Windows/AddAudio/fallSound.xnb","SoundEffectProcessor","SoundEffectContent",78030,77929,0.2357488
+"C:/Users/Kin/Desktop/G7FlappyBird/G7FlappyBird/Content/gameSong.mp3","C:/Users/Kin/Desktop/G7FlappyBird/G7FlappyBird/Content/bin/Windows/AddAudio/gameSong.xnb","SongProcessor","SongContent",929276,126,0.4051195
+"C:/Users/Kin/Desktop/G7FlappyBird/G7FlappyBird/Content/jumpSound.wav","C:/Users/Kin/Desktop/G7FlappyBird/G7FlappyBird/Content/bin/Windows/AddAudio/jumpSound.xnb","SoundEffectProcessor","SoundEffectContent",114894,114793,0.098869
+"C:/Users/Kin/Desktop/G7FlappyBird/G7FlappyBird/Content/menuSong.mp3","C:/Users/Kin/Desktop/G7FlappyBird/G7FlappyBird/Content/bin/Windows/AddAudio/menuSong.xnb","SongProcessor","SongContent",845527,126,0.6236847
+"C:/Users/Kin/Desktop/G7FlappyBird/G7FlappyBird/Content/scoreSound.wav","C:/Users/Kin/Desktop/G7FlappyBird/G7FlappyBird/Content/bin/Windows/AddAudio/scoreSound.xnb","SoundEffectProcessor","SoundEffectContent",123086,122985,0.0965345
